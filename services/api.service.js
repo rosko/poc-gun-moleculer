@@ -7,7 +7,6 @@ module.exports = {
 
     settings: {
         port: process.env.PORT || 3000,
-        ip: '192.168.0.102',
 
         routes: [{
             path: '/api',

@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "gun": "0.2019.515",
-    "lodash": "4.17.11",
+    "lodash": "4.17.19",
     "moleculer": "0.13.9",
     "moleculer-console-tracer": "0.2.1",
     "moleculer-web": "0.8.5"
